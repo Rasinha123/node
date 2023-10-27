@@ -1,4 +1,3 @@
-edited by rahul 
 
 # Node.js
 
